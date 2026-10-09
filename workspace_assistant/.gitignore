@@ -4,6 +4,7 @@ config/credentials/*.json
 # Environment
 .env
 .env.local
+.adk/
 
 # Python
 __pycache__/
